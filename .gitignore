@@ -1,3 +1,5 @@
 *.pyc
 *.pyo
 .ipynb_checkpoints/
+hospitalization_all_locs_corrected.csv
+IHME_COVID_19_Data_Release_Information_Sheet_II.pdf
